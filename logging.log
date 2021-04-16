@@ -1,0 +1,14 @@
+DEBUG:root:starting up on localhost port 5000
+DEBUG:root:connection from ('127.0.0.1', 44474)
+DEBUG:root:07-41-16.zip created, waiting for data...
+DEBUG:root:Closing 07-41-16.zip
+DEBUG:root:connection from ('127.0.0.1', 46180)
+DEBUG:root:13-30-48.zip created, waiting for data...
+DEBUG:root:starting up on localhost port 5000
+DEBUG:root:starting up on localhost port 5000
+DEBUG:root:connection from ('127.0.0.1', 49522)
+DEBUG:root:21-48-06.zip created, waiting for data...
+DEBUG:root:Closing 21-48-06.zip
+DEBUG:root:connection from ('127.0.0.1', 49668)
+DEBUG:root:21-57-07.zip created, waiting for data...
+DEBUG:root:Closing 21-57-07.zip
