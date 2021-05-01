@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import socket
 import datetime
@@ -12,7 +12,7 @@ def server_connect():
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     # Bind the socket to the port
-    server_address = ('localhost', 5000)
+    server_address = ('192.168.1.10', 5000)
     ip, port = server_address
     print('starting up on {} port {}'.format(*server_address))
     logging.debug(f"starting up on {ip} port {port}")
