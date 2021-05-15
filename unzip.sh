@@ -12,7 +12,7 @@ inotifywait -m /home/pi/HealthmailSocket/ -e create -e moved_to |
                 rm "$file"  "$file.pdf"
                else
                 echo "file is NOT html"
-                # python -m weasyprint "$file"
+                lp -d  Brother_MFC-L2720DW_series_via_VNC_from_MPS01 $file
                 rm "$file"
                fi;
             done;

@@ -76,3 +76,20 @@ DEBUG:root:Closing 13-56-11.zip
 DEBUG:root:connection from ('192.168.1.4', 63893)
 DEBUG:root:14-27-18.zip created, waiting for data...
 DEBUG:root:Closing 14-27-18.zip
+DEBUG:root:starting up on 192.168.1.10 port 5000
+DEBUG:root:connection from ('192.168.1.4', 52444)
+DEBUG:root:09-14-46.zip created, waiting for data...
+DEBUG:root:Closing 09-14-46.zip
+DEBUG:root:starting up on 192.168.1.10 port 5000
+DEBUG:root:connection from ('192.168.1.4', 64940)
+DEBUG:root:13-33-15.zip created, waiting for data...
+DEBUG:root:Closing 13-33-15.zip
+DEBUG:root:connection from ('192.168.1.4', 64962)
+DEBUG:root:13-34-29.zip created, waiting for data...
+DEBUG:root:Closing 13-34-29.zip
+DEBUG:root:connection from ('192.168.1.4', 65016)
+DEBUG:root:13-37-42.zip created, waiting for data...
+DEBUG:root:Closing 13-37-42.zip
+DEBUG:root:connection from ('192.168.1.4', 65045)
+DEBUG:root:13-39-41.zip created, waiting for data...
+DEBUG:root:Closing 13-39-41.zip
